@@ -1,4 +1,4 @@
-# 2022년 AI 실무 인재 양성과정
+# 딥러닝 IoT 과정
 
 <br>
 
@@ -68,12 +68,12 @@
     - 흑백 영상 데이터 MNIST 영상분류 : [cnn_mnist.ipynb](./material/deep_learning/cnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/cnn_mnist.ipynb)
     - CIFAR10 컬러영상분류 : [cnn_cifar10.ipynb](./material/deep_learning/cnn_cifar10.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/cnn_cifar10.ipynb)
 
+ - 영상 예측  CNN : [template_image_data_vanilla_cnn_regression.ipynb](material/deep_learning/template_image_data_vanilla_cnn_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/template_image_data_vanilla_cnn_regression.ipynb)
+
 
 <br>
 
-## 4일차
-
-- 영상 예측  CNN : [template_image_data_vanilla_cnn_regression.ipynb](material/deep_learning/template_image_data_vanilla_cnn_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/template_image_data_vanilla_cnn_regression.ipynb)
+## 5일차
 
 - 데이터 증강 : [data_augmentation.ipynb](./material/deep_learning/data_augmentation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/data_augmentation.ipynb)
 
@@ -87,7 +87,7 @@
 
 <br>
 
-## 5일차
+## 6일차
 
 - Keras Functional API  : [functional_api.ipynb](./material/deep_learning/functional_api.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/functional_api.ipynb)
 
@@ -99,6 +99,7 @@
     - 이상탐지
         - mnist : [anomaly_detection_using_autoencoder.ipynb](./material/deep_learning/anomaly_detection_using_autoencoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/anomaly_detection_using_autoencoder.ipynb)  
         - fashion mnist : [anomaly_detection_fahsion_mnist.ipynb](./material/deep_learning/anomaly_detection_fahsion_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/anomaly_detection_fahsion_mnist.ipynb)          
+
 - 영상 분할(Segementation)
     - U-Net을 사용한 영상 분할 실습 : [unet_segementation.ipynb](./material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/unet_segementation.ipynb)
     - M-Net을 사용한 영상 분할 실습 : [mnet_segementation.ipynb](./material/deep_learning/mnet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/mnet_segementation.ipynb)
@@ -107,7 +108,7 @@
 
 <br>
 
-## 6일차
+## 7일차
 
 - 물체 탐지
     - YOLO 설명 자료 : https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/edit	
@@ -134,93 +135,34 @@
 
 <br>
 
-## 7일차
-
-- 순차열 데이터
-    - 순차열 데이터의 이해 : [deep_learning_intro.pptx](./material/deep_learning//deep_learning_intro.pptx)
-    - RNN의 이해 : [deep_learning_intro.pptx](./material/deep_learning//deep_learning_intro.pptx)
-    - 단일 숫자열 예측 : [template_numeric_sequence_data_prediction.ipynb](material/deep_learning/template_numeric_sequence_data_prediction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/template_numeric_sequence_data_prediction.ipynb)
-    - 단일 숫자열 분류 : [template_numeric_sequence_data_classification.ipynb](material/deep_learning/template_numeric_sequence_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/template_numeric_sequence_data_classification.ipynb)
-    - 다중 숫자열 분류 : [template_multi_numeric_sequence_data_classification.ipynb](material/deep_learning/template_multi_numeric_sequence_data_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/template_multi_numeric_sequence_data_classification.ipynb) 
-    - 다중 숫자열 다중 예측 : [template_multi_numeric_sequence_data_multi_prediction.ipynb](material/deep_learning/template_multi_numeric_sequence_data_multi_prediction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/template_multi_numeric_sequence_data_multi_prediction.ipynb)
-    - 다중 숫자열 단일 예측 : [template_multi_numeric_sequence_data_one_prediction.ipynb](material/deep_learning/template_multi_numeric_sequence_data_one_prediction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/template_multi_numeric_sequence_data_one_prediction.ipynb)
-
-
-<br>
-
 ## 8일차
 
-- 자연어 처리
-    - 토크나이징과 임베딩 : [text_tokenizing_and_embedding.ipynb](./material/deep_learning/text_tokenizing_and_embedding.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/text_tokenizing_and_embedding.ipynb)
-
-    - RNN을 사용한 영화 평가 데이터 IMDB 분류 : [rnn_text_classification.ipynb](./material/deep_learning/rnn_text_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/rnn_text_classification.ipynb)
-
-- 한글 NLP    
-    - 자연어 데이터의 이해 : [deep_learning_intro.pptx](./material/deep_learning/deep_learning_intro.pptx)
-    - RNN을 사용한 한글 영화 평가 데이터 분류 : [korean_word_sequence_classification.ipynb](./material/deep_learning/korean_word_sequence_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/korean_word_sequence_classification.ipynb)
-    - Bert를 사용한 한글 영화 평가 데이터 분류 : [korean_word_sequence_classification_with_bert.ipynb](./material/deep_learning/korean_word_sequence_classification_with_bert.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/korean_word_sequence_classification_with_bert.ipynb)
-    - Bert를 사용한 한글 문장 간 관계 분류 : [korean_sentence_relation_classification_with_bert.ipynb](./material/deep_learning/korean_sentence_relation_classification_with_bert.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/korean_sentence_relation_classification_with_bert.ipynb)
-    - Bert를 사용한 한글 문장 간 관계값 예측 : [korean_sentence_relation_regression_with_bert.ipynb](./material/deep_learning/korean_sentence_relation_regression_with_bert.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/korean_sentence_relation_regression_with_bert.ipynb)
-    - Bert를 사용한 한글 문장 간 관계 분류, 커스텀 vocab : [korean_sentence_relation_classification_with_bert_with_custom_vocab.ipynb](./material/deep_learning/korean_sentence_relation_classification_with_bert_with_custom_vocab.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/korean_sentence_relation_classification_with_bert_with_custom_vocab.ipynb)
-    - Bert를 사용한 괄호 단어 예측 : [korean_mask_completion_with_bert.ipynb](./material/deep_learning/korean_mask_completion_with_bert.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/korean_mask_completion_with_bert.ipynb) 
+- 웹 카메라를 사용한 영상 분류
 
 
 <br>
 
 ## 9일차
 
-## GAN
+- 웹 카메라를 사용한 물체 탐지
 
-- GAN
-    - GAN의 이해 : [deep_learning_intro.pptx](./material/deep_learning//deep_learning_intro.pptx), 
-        - 이상탐지 관련 GAN 설명 : [deep_learning_anomaly_detection.pptx](./material/deep_learning/deep_learning_anomaly_detection.pptx)
-    - GAN을 사용한 MNIST 학습 실습 : [wgan_gp_mnist.ipynb](./material/deep_learning/wgan_gp_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/wgan_gp_mnist.ipynb)
-    - Conditional GAN의 이해 : [anomaly_detection_using_gan.pptx](./material/deep_learning/anomaly_detection_using_gan.pptx)
-    - Cycle GAN의 이해 : [cycle_gan.pdf](./material/deep_learning/cycle_gan.pdf)
-- 강화학습 이해하기 : [deep_learning_intro.pptx](./material/deep_learning//deep_learning_intro.pptx)
-- 알파고 이해하기 : [understanding_alphago.pptx](./material/deep_learning/understanding_alphago.pptx)
-
-- 기타 활용
-
-    - 얼굴 인식 : [Face_Recognition.ipynb](./material/deep_learning/Face_Recognition.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/Face_Recognition.ipynb)
-    - 포즈 추출 : [open_pose_using_template.ipynb](material/deep_learning/open_pose_using_template.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/open_pose_using_template.ipynb)
-    - web cam + colab 실시간 포즈 추출 : [tf_pose_estimation_with_webcam.ipynb](material/deep_learning/tf_pose_estimation_with_webcam.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/tf_pose_estimation_with_webcam.ipynb)
-    - 영상 데이터 예측 : [cat_with_glasses.ipynb](./material/deep_learning/cat_with_glasses.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/cat_with_glasses.ipynb)
-
-    - CM, ROC, AUC :  [roc_auc_confusion_matric.ipynb](./material/deep_learning/roc_auc_confusion_matric.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/roc_auc_confusion_matric.ipynb)
 
 <br>
 
-# 10일차
+## 10일차
 
-
-## 추천
-
-- 추천 시스템 소개 : [recommendation.ipynb](./material/deep_learning/recommendation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/recommendation.ipynb) 
-- 실습 데이터
-    - https://www.kaggle.com/c/instacart-market-basket-analysis/data
-    - https://www.kaggle.com/niharika41298/netflix-visualizations-recommendation-eda/data?select=to_read.csv
-
-- 영상 검색
-    - 영상 검색 - by CNN : [image_search_by_CNN.ipynb](./material/deep_learning/image_search_by_CNN.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/image_search_by_CNN.ipynb)
-    - 영상 검색 - by Conv AutoEncoder : [image_search_by_ConvAutoEncoder.ipynb](./material/deep_learning/image_search_by_ConvAutoEncoder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/image_search_by_ConvAutoEncoder.ipynb)    
-    - 영상 검색 - by 샴 네크웤 : [image_search_by_siamese_network.ipynb](./material/deep_learning/image_search_by_siamese_network.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/image_search_by_siamese_network.ipynb)
-    - 실습 데이터 : BMW car data : http://ai.stanford.edu/~jkrause/car196/bmw10_release.tgz (10개 폴더에 이미지들)
-
-- 소리 검색
-    - 소리 검색 - urban sound : [sound_search_urban_sound.ipynb](./material/deep_learning/sound_search_urban_sound.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/sound_search_urban_sound.ipynb)
-    - 소리 검색 - enviroment sound : [sound_search_urban_sound.ipynb](./material/deep_learning/sound_search_urban_sound.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/sound_search_urban_sound.ipynb)
-
-
-- 채용 공고 리뷰
-- 개발 계획서 리뷰
-
-<br>
+- 웹 카메라를 사용한 포즈 추출
 
 
 <br>
 
 # 기타
+
+- CM, ROC, AUC :  [roc_auc_confusion_matric.ipynb](./material/deep_learning/roc_auc_confusion_matric.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/roc_auc_confusion_matric.ipynb)
+
+- 강화학습 이해하기 : [deep_learning_intro.pptx](./material/deep_learning//deep_learning_intro.pptx)
+- 알파고 이해하기 : [understanding_alphago.pptx](./material/deep_learning/understanding_alphago.pptx)
+
 
 ## Template
 
@@ -255,6 +197,23 @@
 
 
 <br>
+
+
+## GAN
+
+- GAN의 이해 : [deep_learning_intro.pptx](./material/deep_learning//deep_learning_intro.pptx), 
+    - 이상탐지 관련 GAN 설명 : [deep_learning_anomaly_detection.pptx](./material/deep_learning/deep_learning_anomaly_detection.pptx)
+- GAN을 사용한 MNIST 학습 실습 : [wgan_gp_mnist.ipynb](./material/deep_learning/wgan_gp_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/wgan_gp_mnist.ipynb)
+- Conditional GAN의 이해 : [anomaly_detection_using_gan.pptx](./material/deep_learning/anomaly_detection_using_gan.pptx)
+- Cycle GAN의 이해 : [cycle_gan.pdf](./material/deep_learning/cycle_gan.pdf)
+
+## 기타 활용
+
+- 얼굴 인식 : [Face_Recognition.ipynb](./material/deep_learning/Face_Recognition.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/Face_Recognition.ipynb)
+- 포즈 추출 : [open_pose_using_template.ipynb](material/deep_learning/open_pose_using_template.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/open_pose_using_template.ipynb)
+- web cam + colab 실시간 포즈 추출 : [tf_pose_estimation_with_webcam.ipynb](material/deep_learning/tf_pose_estimation_with_webcam.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/tf_pose_estimation_with_webcam.ipynb)
+- 영상 데이터 예측 : [cat_with_glasses.ipynb](./material/deep_learning/cat_with_glasses.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/main/material/deep_learning/cat_with_glasses.ipynb)
+
 
 ## 성능 개선
 
