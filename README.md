@@ -164,6 +164,8 @@
 - 알파고 이해하기 : [understanding_alphago.pptx](./material/deep_learning/understanding_alphago.pptx)
 
 
+<br>
+
 ## Template
 
 - 속성 데이터
