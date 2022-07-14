@@ -4,6 +4,13 @@
 
 # 일자별 계획
 
+## 0일차
+
+딥러닝을 위한 라이브러리(최소) : [library_for_deep_learning_shortly.ipynb](./material/library/library_for_deep_learning_shortly.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/library/library_for_deep_learning_shortly.ipynb)
+
+
+<br>
+
 ## 1일차
 
 - 인공지능 개념 및 동작 원리의 이해 : [deep_learning_intro.pptx](./material/deep_learning/deep_learning_intro.pptx)
