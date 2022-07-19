@@ -39,6 +39,9 @@
     - trian, test 데이터 분리
     - batch size와 학습
     - 데이터 수와 학습
+    - 모델 저장과 로딩
+    - 학습되지 않는 랜덤 함수
+    - Optimizer
 
 
 <br>
@@ -46,10 +49,16 @@
 ## 3일차
 
 - Keras로 구현한 딥러닝 #2 : [dnn_in_keras.ipynb](./material/deep_learning/dnn_in_keras.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/dnn_in_keras.ipynb)
-    - 모델 저장과 로딩
-    - 학습되지 않는 랜덤 함수
-    - Optimizer
     - 다양한 입출력
+
+- 분류기로서의 DNN
+    - 속성 데이터 IRIS 분류 실습 : [dnn_iris_classification.ipynb](./material/deep_learning/dnn_iris_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/dnn_iris_classification.ipynb)
+
+- 영상 데이터의 이해 : [deep_learning_intro.pptx](./material/deep_learning/deep_learning_intro.pptx)
+
+- 영상 분류기로서의 DNN
+    - 흑백 영상 데이터 MNIST 분류 실습 : [dnn_mnist.ipynb](./material/deep_learning/dnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/dnn_mnist.ipynb)
+    - 흑백 영상 fashion MNIST 분류 : [dnn_fashion_mnist.ipynb](./material/deep_learning/dnn_fashion_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/dnn_fashion_mnist.ipynb)
 
 - 기타 Keras
     - callback : [dnn_in_keras_callback.ipynb](./material/deep_learning/dnn_in_keras_callback.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/dnn_in_keras_callback.ipynb)
@@ -60,15 +69,6 @@
 <br>
 
 ## 4일차
-
-- 분류기로서의 DNN
-    - 속성 데이터 IRIS 분류 실습 : [dnn_iris_classification.ipynb](./material/deep_learning/dnn_iris_classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/dnn_iris_classification.ipynb)
-
-- 영상 데이터의 이해 : [deep_learning_intro.pptx](./material/deep_learning/deep_learning_intro.pptx)
-
-- 영상 분류기로서의 DNN
-    - 흑백 영상 데이터 MNIST 분류 실습 : [dnn_mnist.ipynb](./material/deep_learning/dnn_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/dnn_mnist.ipynb)
-    - 흑백 영상 fashion MNIST 분류 : [dnn_fashion_mnist.ipynb](./material/deep_learning/dnn_fashion_mnist.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/dnn_fashion_mnist.ipynb)
 
 - 영상 분류기로서의 CNN
     - CNN의 이해 : [deep_learning_intro.pptx](./material/deep_learning/deep_learning_intro.pptx)
