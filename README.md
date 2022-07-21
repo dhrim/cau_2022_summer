@@ -145,21 +145,21 @@
 
 ## 8일차
 
-- 웹 카메라를 사용한 영상 분류
+- 웹 카메라를 사용한 영상 분류 : [webcam_classifier.ipynb](./material/deep_learning/webcam_classifier.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/webcam_classifier.ipynb)
 
 
 <br>
 
 ## 9일차
 
-- 웹 카메라를 사용한 물체 탐지
+- 웹 카메라를 사용한 물체 탐지 : [webcam_object_detector.ipynb](./material/deep_learning/webcam_object_detector.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/webcam_object_detector.ipynb)
 
 
 <br>
 
 ## 10일차
 
-- 웹 카메라를 사용한 포즈 추출
+- 웹 카메라를 사용한 포즈 추출 : [webcam_pose_extraction.ipynb](./material/deep_learning/webcam_pose_extraction.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/webcam_pose_extraction.ipynb)
 
 
 <br>
