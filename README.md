@@ -112,7 +112,7 @@
     - U-Net을 사용한 영상 분할 실습 : [unet_segementation.ipynb](./material/deep_learning/unet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/unet_segementation.ipynb)
     - M-Net을 사용한 영상 분할 실습 : [mnet_segementation.ipynb](./material/deep_learning/mnet_segementation.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/mnet_segementation.ipynb)
     - U-Net을 사용한 컬러 영상 분할 실습 : [unet_segementation_color_image.ipynb](./material/deep_learning/unet_segementation_color_image.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/unet_segementation_color_image.ipynb)
-    - 실습 자료 : [MRI_images.zip](https://github.com/dhrim/deep_learning_data/raw/main/MRI_images.zip)
+    - 실습 자료 : [MRI_images.zip](https://github.com/dhrim/deep_learning_data/raw/master/MRI_images.zip)
 
 <br>
 
