@@ -145,8 +145,9 @@
 
 ## 8일차
 
-- 웹 카메라를 사용한 영상 분류 : [webcam_classifier.ipynb](./material/deep_learning/webcam_classifier.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/webcam_classifier.ipynb)
-- 모바일 폰에서 실행 : [webcam_classifier_in_mobile.ipynb](./material/deep_learning/webcam_classifier_in_mobile.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/webcam_classifier_in_mobile.ipynb)
+- 웹 카메라를 사용한 영상 분류
+    - 캡쳐와 실행 : [webcam_classifier.ipynb](./material/deep_learning/webcam_classifier.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/webcam_classifier.ipynb)
+    - 모바일 폰에서 실행 : [webcam_classifier_in_mobile.ipynb](./material/deep_learning/webcam_classifier_in_mobile.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/webcam_classifier_in_mobile.ipynb)
 
 
 <br>
