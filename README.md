@@ -153,7 +153,9 @@
 
 ## 9일차
 
-- 웹 카메라를 사용한 물체 탐지 : [webcam_object_detector.ipynb](./material/deep_learning/webcam_object_detector.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/webcam_object_detector.ipynb)
+- 웹 카메라를 사용한 물체 탐지
+    - 캡쳐 : [webcam_object_detection_capture.ipynb](./material/deep_learning/webcam_object_detection_capture.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/webcam_object_detection_capture.ipynb)
+    - 실행 : [webcam_object_detector.ipynb](./material/deep_learning/webcam_object_detector.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/cau_2022_summer/blob/master/material/deep_learning/webcam_object_detector.ipynb)
 
 
 <br>
